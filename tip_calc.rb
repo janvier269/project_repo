@@ -1,3 +1,4 @@
+# very nicely commented Julie
 puts "How much is the bill?"
 amount = gets.chomp.to_i
 
